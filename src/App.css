@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.avtaar {
+  border: 50% solid rgb(167, 20, 20);
+
+}
 
 .App-logo {
   height: 40vmin;
